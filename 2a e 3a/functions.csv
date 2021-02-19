@@ -1,7 +1,7 @@
 id,function_name,external_component_avg_latency,has_external_component
-2,doThatThing,0,False
-1,doThisThing,30,True
-3,accessAnotherThing,1000,True
-5,fetchThisMetadata,20,True
-4,sendAFile,2500,True
 0,checkSomething,0,False
+1,doThisThing,30,True
+2,doThatThing,0,False
+3,accessAnotherThing,1000,True
+4,sendAFile,2500,True
+5,fetchThisMetadata,20,True
