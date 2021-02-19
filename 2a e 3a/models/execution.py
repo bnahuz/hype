@@ -1,7 +1,7 @@
 import peewee
 from function import Function
 
-db = peewee.SqliteDatabase('indices-ipca.db')
+db = peewee.SqliteDatabase('acme.db')
 
 class Execution(peewee.Model):
     
